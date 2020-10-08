@@ -1,5 +1,5 @@
-a=10
-b=20
+a="10"
+b="20"
 #Concatination of number
 x=a+b
 print(x)
